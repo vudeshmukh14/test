@@ -1,5 +1,0 @@
-{{#user}
-Name: Vishwajeet Deshmukh
-Skills: C, C++, Python, HTML, CSS, JavaScript, React.js, Node.js, MySQL, Machine Learning
-Email: vudeshmukh14@gmail.com
-{{/user}}
